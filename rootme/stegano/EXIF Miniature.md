@@ -1,0 +1,2 @@
+On a une image qui à elle aussi une miniature, sur ```https://www.dcode.fr/miniature-exif``` ça nous renvoie l'image avec la bonne miniature </br>
+Par contre je n'arrive à voir la miniature seulement sur kali

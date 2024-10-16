@@ -1,0 +1,1 @@
+simplement faire la combinaison sur un clavier de tel 

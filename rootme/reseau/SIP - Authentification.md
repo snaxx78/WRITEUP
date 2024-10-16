@@ -1,0 +1,1 @@
+Le mot de passe est écrit en clair dans le fichier
